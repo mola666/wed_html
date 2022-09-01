@@ -9,4 +9,7 @@
 5、lesson4/test2.html 中介绍了 meta 控制网页自适应屏幕的用法
 6、lesson4/test3.html 中使用了 文章《一只特立独行的猪》来复习了之前所学过的知识
 7、发现一个规律， html 也是顺序执行的
+8、lesson5/test1.html 中介绍了 link 的用法
+9、lesson5/test2.html 中介绍了 base 的用法
+
 
