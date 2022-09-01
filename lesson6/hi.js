@@ -1,0 +1,1 @@
+document.write("I Iove FishC.com!");

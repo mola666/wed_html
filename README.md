@@ -11,5 +11,8 @@
 7、发现一个规律， html 也是顺序执行的
 8、lesson5/test1.html 中介绍了 link 的用法
 9、lesson5/test2.html 中介绍了 base 的用法
-
+10、lesson6/test1.html 初见 javascript 脚本
+11、lesson6/test2.html 链接 javascript 语法
+12、lesson6/test3.html 将 javascript 语法最后执行
+13、lesson6/test4.html  javascript 脚本开关
 
