@@ -15,4 +15,31 @@
 11、lesson6/test2.html 链接 javascript 语法
 12、lesson6/test3.html 将 javascript 语法最后执行
 13、lesson6/test4.html  javascript 脚本开关
+14、lesson7/test1.html  写注释：
+   	1、html的注释：<!-- 在此处注释 -->
+  	2、css的注释 ：/* 在此处注释 */
+   	3、javascript： //单行注释   ， /* 多行注释 */
+
+
+15、lesson8/test3.html 为什么将程序分为块内和块外
+		html 将程序中<p></p>中的内容 中的空格和回车都自动换为 一个空格
+		<br> 在 html 程序中的添加一个回车号
+
+16、lesson9/test1.html pre元素 是预格式化指令，既所见即所得。
+	html 字符实体概念：
+		pre 固定格式
+		code 显示代码的内容
+		var 定义程序的变量
+		kbd 定义用户的输入
+		samp 定义程序的输出
+17、lesson10/test1.html 
+
+lesson11/test1.html,表示的是 <ul>创建无须列表
+	
+lesson11/test2.html,表示的是 <ol>创建有序列表
+
+
+
+
+
 
