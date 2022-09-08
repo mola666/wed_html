@@ -39,6 +39,51 @@ lesson11/test1.html,表示的是 <ul>创建无须列表
 lesson11/test2.html,表示的是 <ol>创建有序列表
 
 
+lesson13/test4.html , padding可以调整页边距
+
+lesson14 :表格背景色
+	thead  表格头
+	tbody	表格内容
+	tfoot    尾行
+	colspan  跨列
+	rowspan  跨行
+
+lesson15 ：表单引入
+	input  输入
+	git 把账号和密码包含在URL中 
+	post 没有包含账号和密码
+	button 按钮
+
+lesson16：深入表单
+	autocomplete  使网页的输入框会记住你之前输入的内容
+	target  添加一个新窗口
+	value  添加默认值
+	autofocus  自动聚焦
+	disable  石化
+
+lesson17：
+	label 将表单框前方的文字与表单框关联
+	fieldset  将内容分组
+	select option  将输入框中的选项做成二选一
+	optgroup  框中的内容分组
+
+lesson18：
+	按钮
+	单选框
+	多选框
+	时间和日期
+
+lesson19:搜索框
+	search  搜索
+	image	图片
+	hidden  ：将input元素隐藏起来
+
+lesson20： input元素之上传文件属性
+	
+
+	
+
+
 
 
 
