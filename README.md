@@ -79,9 +79,42 @@ lesson19:搜索框
 	hidden  ：将input元素隐藏起来
 
 lesson20： input元素之上传文件属性
+
+lesson22: 
+	placeholder 图框占位文本
+	required 输入框中的内容必须填写
+	datalist 
+
+lesson23：
+	textarea  鱼C表单
+	output
+
+lesson24： 
+	div  语义化布局
+	苹果的官网什么的
+
+lesson25：
+	语义为王
+
+lesson26：
+	点击图片即可进入网页
+
+lesson27：
+	video  在网页中嵌入视频
+
+lesson28：
+	audio 在网页中嵌入音频
+	track 添加字幕
+
+lesson29：
+	iframe  指定要嵌入的网页
 	
 
-	
+
+
+
+
+
 
 
 
